@@ -1,0 +1,6 @@
+{
+  "name": "CitizenPrep",
+  "description": "Canada and USA Citizenship Test Preparation Platform with official Discover Canada and USCIS 2025 civics syllabi, timed mock tests, and personalized practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
